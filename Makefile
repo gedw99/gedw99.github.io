@@ -8,7 +8,7 @@ dep:
 run:
 	xlog
 build:
-	xlog build
+	xlog --build .
 push:
 	# the github action will do the build
 	git pull

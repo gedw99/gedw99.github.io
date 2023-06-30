@@ -6,9 +6,23 @@
         <language>en-US</language>
         <description></description>
         <item>
+            <title>foo</title>
+            <description>&lt;p dir=&#34;auto&#34;&gt;&lt;a href=&#34;/foo&#34;&gt;foo&lt;/a&gt; page&lt;/p&gt;&#xA;</description>
+            <pubDate>2023-06-30T18:12:28.133833524+02:00</pubDate>
+            <guid>foo</guid>
+            <link>https:///foo</link>
+        </item>
+        <item>
+            <title>index</title>
+            <description>&lt;p dir=&#34;auto&#34;&gt;&lt;audio controls src=&#34;/public/3cb32deeface7d546cdf2b20b46c0cf6695e2ef99bacf30a8ef7f48300537fcd.opus&#34;&gt;&lt;/audio&gt;&lt;/p&gt;&#xA;</description>
+            <pubDate>2023-06-30T18:07:54.131105877+02:00</pubDate>
+            <guid>index</guid>
+            <link>https:///index</link>
+        </item>
+        <item>
             <title>starred</title>
-            <description></description>
-            <pubDate>2023-06-30T17:46:34.127844833+02:00</pubDate>
+            <description>&lt;p dir=&#34;auto&#34;&gt;&lt;a href=&#34;/index&#34;&gt;index&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+            <pubDate>2023-06-30T17:59:35.739973892+02:00</pubDate>
             <guid>starred</guid>
             <link>https:///starred</link>
         </item>
@@ -25,13 +39,6 @@
             <pubDate>2023-06-30T17:45:54.860600919+02:00</pubDate>
             <guid>test1</guid>
             <link>https:///test1</link>
-        </item>
-        <item>
-            <title>index</title>
-            <description>&lt;p dir=&#34;auto&#34;&gt;Hello world from geddw99 !&lt;/p&gt;&#xA;</description>
-            <pubDate>2023-06-30T17:45:39.413860757+02:00</pubDate>
-            <guid>index</guid>
-            <link>https:///index</link>
         </item>
     </channel>
 </rss>
