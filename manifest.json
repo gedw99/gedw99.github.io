@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "XLOG",
+  "short_name": "XLOG",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "public/logo.png",
+      "type": "image/png",
+      "sizes": "any"
+    }
+  ]
+}

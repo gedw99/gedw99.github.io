@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>XLOG</title>
+        <link>https:///+/feed.rss</link>
+        <language>en-US</language>
+        <description></description>
+        <item>
+            <title>index</title>
+            <description>&lt;p dir=&#34;auto&#34;&gt;Hello world from geddw99 !&lt;/p&gt;&#xA;</description>
+            <pubDate>2023-06-30T17:41:50.880965134+02:00</pubDate>
+            <guid>index</guid>
+            <link>https:///index</link>
+        </item>
+    </channel>
+</rss>
